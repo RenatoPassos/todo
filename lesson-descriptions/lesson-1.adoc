@@ -1,0 +1,5 @@
+= 1. Setup React Native for iOS and Android
+
+== 4:48  React lesson by Jason Brown
+
+In this lesson we'll walk through the process of installing the react-native-cli through setting up a basic react-native project on iOS. We'll get the basic project running in a simulator via XCode. We'll also setup Android, Android Studio and get the project running on an emulator with the react-native run-android command.
