@@ -1,0 +1,8 @@
+= 5. Create a List of Items with a React Native ListView
+
+== 5:57  React lesson by Jason Brown
+
+In this lesson we'll use the ListView component to render a list 
+of items that were entered. We'll show how to setup a 
+ListView.DataSource and how to render custom rows with 
+performance in mind.
