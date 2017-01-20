@@ -2,5 +2,6 @@
 
 == 2:35  React lesson by Jason Brown
 
-In this lesson we'll create the basic application layout with a header, content section, and footer. We'll learn to use 
+In this lesson we'll create the basic application layout with a 
+header, content section, and footer. We'll learn to use 
 StyleSheet to create styles to apply to React Native components.

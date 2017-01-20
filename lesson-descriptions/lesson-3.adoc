@@ -2,5 +2,7 @@
 
 == 4:29  React lesson by Jason Brown
 
-In this lesson we'll use TextInput to receive input from the user and save off separate items into state. We'll store 
-the value on state, show how to setup specific keyboards to display and how to handle actions from the keyboard.
+In this lesson we'll use TextInput to receive input from the user 
+and save off separate items into state. We'll store the value on 
+state, show how to setup specific keyboards to display and how to 
+handle actions from the keyboard.
