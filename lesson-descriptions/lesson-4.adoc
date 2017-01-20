@@ -1,0 +1,6 @@
+= 4. Add a Toggle All Complete Button with React Native TouchableOpacity
+
+== 3:43  React lesson by Jason Brown
+
+In this lesson we'll add a Toggle All Complete Button next to the Text Input. We'll show off how components without 
+flex layout affect siblings with flex layout properties.
