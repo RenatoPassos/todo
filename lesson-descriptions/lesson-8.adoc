@@ -1,0 +1,8 @@
+= Filter Items in the React Native List View
+
+== 6:44  React lesson by Jason Brown
+
+We'll setup 3 buttons (All, Active, Complete) to filter the 
+displayed items based on their completion status. We'll also 
+show how to use flexbox flexDirection row lays out items 
+differently than column.
