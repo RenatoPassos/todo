@@ -34,6 +34,7 @@ const styles = StyleSheet.create({
         color: "#CCC"
     },
     input: {
+        fontSize: 26,
         flex: 1,
         marginLeft: 16,
         height: 50
