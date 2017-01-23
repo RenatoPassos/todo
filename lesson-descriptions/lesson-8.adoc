@@ -1,4 +1,4 @@
-= Filter Items in the React Native List View
+= 8. Filter Items in the React Native List View
 
 == 6:44  React lesson by Jason Brown
 
