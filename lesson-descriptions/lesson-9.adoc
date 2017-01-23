@@ -1,0 +1,7 @@
+= 9. Add the Total Remaining Item Count to the Footer with React Native Text
+
+== 0:40  React lesson by Jason Brown
+
+In this lesson we'll add a footer text item to show the total 
+count of what is in the current filtered view. We'll show the 
+technique of deriving computed values in render functions.
