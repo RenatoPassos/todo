@@ -6,7 +6,7 @@ class Footer extends Component {
         const { filter } = this.props;
         return (
             <View style={styles.container}>
-                <Text>{this.props.count} remaining</Text>
+                <Text style={styles.bottomText}>{this.props.count} remaining</Text>
                 <View style={styles.filters}>
                     <TouchableOpacity 
                             style={[styles.filter, filter === "ALL" && styles.selected]}
@@ -24,6 +24,9 @@ class Footer extends Component {
                         <Text style={styles.filterText}>Completed</Text>
                     </TouchableOpacity>
                 </View>
+                <TouchableOpacity onPress={this.props.onClearComplete}>
+                    <Text style={styles.bottomText}>Clear Completed</Text>
+                </TouchableOpacity>
             </View>
         );
     }
@@ -48,11 +51,16 @@ const styles = StyleSheet.create({
         marginRight: 2
     },
     filterText: {
-        fontSize: 22        
+        fontSize: 14,
+        fontWeight: 'bold'     
     },
     selected: {
         borderColor: "rgba(175, 47, 47, .2)",
         backgroundColor: "rgba(175, 47, 47, .2)"
+    }, 
+    bottomText: {
+        fontSize: 14,
+        fontWeight: 'bold'
     }
 });
 export default Footer;
