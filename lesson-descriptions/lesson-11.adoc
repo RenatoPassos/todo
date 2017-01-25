@@ -1,0 +1,8 @@
+= 11. Persist Items with React Native AsyncStorage
+
+== 1:06  React lesson by Jason Brown
+
+In this lesson we'll use AsyncStorage to save our items so they 
+persist with each reload of the application. We'll show how to 
+use the promise base interface to handle success as well as 
+handle errors.
