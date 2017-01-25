@@ -1,0 +1,7 @@
+= 13. Inline Edit Todo Items in a React Native ListView
+
+== 6:18  React lesson by Jason Brown
+
+We'll add a TouchableOpacity with a long press to trigger an 
+inline TextInput edit in the row. We'll show how to update an 
+item in a ListView.DataSource and make sure it re-renders
