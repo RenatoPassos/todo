@@ -1,0 +1,9 @@
+= 12. Add a Loading Indicator While Loading Items with React Native ActivityIndicator
+
+== 1:49  React lesson by Jason Brown
+
+We'll use the cross platform ActivityIndicator to add a loading 
+spinner while the items load from AsyncStorage. We'll show off 
+the importance of rendering order, absolute positioning, and 
+how to center items with alignItems and justifyContent set to 
+center.
